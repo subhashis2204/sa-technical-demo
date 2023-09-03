@@ -13,7 +13,7 @@ In this template repository we have the development environment and base set and
 * **Tools needed:** _None_. No need to install anything! All you need is a web browser.
 * **Prerequisites:** _None_. This template includes your development environment and deployable web app for you to create your own site.
 
-## About this portfolio template
+## About this portfolio template 
 
 In this "choose your own adventure" template portfolio, we have a [React](https://reactjs.org/) based web application ready for you to easily customize and deploy using only your web browser.
 
